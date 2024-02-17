@@ -1,31 +1,31 @@
 # Palguard
  Palworld Anticheat
-
-Features:
-Various  additional admin commands.
-IP banning system.
-IP whitelisting for admin commands (so cheaters can't use them)
-Chat logging (currently only in console)
-Unreal Engine networking logging (currently only in console)
-Configurable cheating punishments
-PvP damage limiting (although I'd suggest not enabling PvP at all)
-Automatic cheating/exploiting prevention & punishment
-
-How to Install:
-Windows:
-1) Download & extract version.dll and palguard.dll file into your server Pal\Binaries\Win64 folder.
-2) Start your server once, you will be able to edit configuration stuff in palguard.json file afterwards. To apply changes, either restart your server or use /reloadcfg admin command.
-
-Linux (Wine/Proton):
-1) Install a PalGuard Proton/Wine server (don't ask me how to do this, I have no idea).
-2) Install UE4SS on your server.
-3) Download & extract latest Wine/Proton PalGuard file into your server Pal\Binaries\Win64 folder.
-4) Start your server once, you will be able to edit configuration stuff in palguard.json file afterwards. To apply changes, either restart your server or use /reloadcfg admin command. 
-Important note: In-game chat has a limit of 40 characters. Keep that in mind, as some commands like giving a pal or item may only be usable via RCON
-(unless someone will make a mod to remove this limitation)
-
-
-
+<br>
+Features:<br>
+Various  additional admin commands.<br>
+IP banning system.<br>
+IP whitelisting for admin commands (so cheaters can't use them)<br>
+Chat logging (currently only in console)<br>
+Unreal Engine networking logging (currently only in console)<br>
+Configurable cheating punishments<br>
+PvP damage limiting (although I'd suggest not enabling PvP at all)<br>
+Automatic cheating/exploiting prevention & punishment<br>
+<br><br>
+How to Install:<br>
+Windows:<br>
+1) Download & extract version.dll and palguard.dll file into your server Pal\Binaries\Win64 folder.<br>
+2) Start your server once, you will be able to edit configuration stuff in palguard.json file afterwards.<br>
+3) To apply changes, either restart your server or use /reloadcfg admin command.<br>
+<br><br>
+Linux (Wine/Proton):<br>
+1) Install a PalGuard Proton/Wine server (don't ask me how to do this, I have no idea).<br>
+2) Install UE4SS on your server.<br>
+3) Download & extract latest Wine/Proton PalGuard file into your server Pal\Binaries\Win64 folder.<br>
+4) Start your server once, you will be able to edit configuration stuff in palguard.json file afterwards.<br>
+5) To apply changes, either restart your server or use /reloadcfg admin command. <br>
+Important note: In-game chat has a limit of 40 characters. Keep that in mind, as some commands like giving a pal or item may only be usable via RCON<br>
+(unless someone will make a mod to remove this limitation)<br>
+<br><br>
 
 Admin commands:
 
@@ -68,9 +68,7 @@ Admin commands:
 /jetragon - Gives you admin jetragon pal (it's fast)
 
 /catwaifu - Gives you admin Cat Waifu that buffs your character stats. 
-
-
-
+<br><br>
 
 Config explanation:
 
