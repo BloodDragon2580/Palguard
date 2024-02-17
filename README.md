@@ -1,0 +1,2 @@
+# Palguard
+ Palworld Anticheat
