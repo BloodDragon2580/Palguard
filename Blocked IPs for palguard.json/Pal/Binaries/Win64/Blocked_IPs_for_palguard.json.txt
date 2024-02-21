@@ -1,0 +1,15 @@
+Cheaters and "mmoexp" spammer IPs 
+to block in palguard.json. 
+
+More coming soon.
+
+    "bannedChatWords": [
+        "mmoexp"
+    ],
+    "bannedIPs": [
+        "43.153.26.160",
+        "98.96.208.136",
+        "31.216.56.11",
+        "149.36.40.210",
+        "98.96.208.137"
+    ],
