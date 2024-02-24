@@ -1,4 +1,4 @@
-# Palguard v544
+# Palguard v548
  Palworld Anticheat
 <br>
 Features:<br>
