@@ -1,22 +1,22 @@
 # Palguard v713
  Palworld Anticheat
 <br>
-ℹ️ Server Administration Information
-🖥️ Platform Compatibility:
-Windows: Works only on Dedicated Server.
-Linux (Wine/Proton): Requires additional setup.
-
-🔧 Installation:
-Windows:
-Download & extract version.dll and palguard.dll into your server Pal\Binaries\Win64 folder.
-Start your server once to edit configuration in palguard.json. Apply changes with /reloadcfg admin command.
-
-Linux (Wine/Proton):
-Install a PalGuard Proton/Wine server.
-Install UE4SS on your server.
-Download & extract latest Wine/Proton PalGuard file into your server Pal\Binaries\Win64 folder.
-Start your server once, then edit configuration in palguard.json. Apply changes with /reloadcfg admin command.
-
+ℹ️ Server Administration Information<br>
+🖥️ Platform Compatibility:<br>
+Windows: Works only on Dedicated Server.<br>
+Linux (Wine/Proton): Requires additional setup.<br>
+<br>
+🔧 Installation:<br>
+Windows:<br>
+Download & extract version.dll and palguard.dll into your server Pal\Binaries\Win64 folder.<br>
+Start your server once to edit configuration in palguard.json. Apply changes with /reloadcfg admin command.<br>
+<br>
+Linux (Wine/Proton):<br>
+Install a PalGuard Proton/Wine server.<br>
+Install UE4SS on your server.<br>
+Download & extract latest Wine/Proton PalGuard file into your server Pal\Binaries\Win64 folder.<br>
+Start your server once, then edit configuration in palguard.json. Apply changes with /reloadcfg admin command.<br>
+<br>
 🛠️ Features:
 Various additional admin commands.
 IP banning system.
